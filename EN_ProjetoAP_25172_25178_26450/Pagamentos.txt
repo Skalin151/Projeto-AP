@@ -1,0 +1,6 @@
+Matricula: AL-SE-BA Custo total: -38.95
+Matricula: AA-AA-AB Custo total: 0.15
+Matricula: AA-AA-AB Custo total: 0.15
+Matricula: AS-34-AS Custo total: 0.90
+Matricula: wr-34-wr Custo total: 11.30
+Matricula: HP-0P-FR Custo total: 0.0 (O cliente está exento)

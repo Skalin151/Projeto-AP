@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1704661972 source:d:\random\projetoap\main.c
+	<stdio.h>
+	"Funcoes.h"
+	"Estruturas.h"
+
+1704582830 source:d:\random\projetoap-2\main.c
+	<stdio.h>
+	"Funcoes.h"
+	"Estruturas.h"
+
+1704584473 d:\random\projetoap-2\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estruturas.h"
+
+1704580260 d:\random\projetoap-2\estruturas.h
+	"Funcoes.h"
+
+1704669168 d:\random\projetoap\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estruturas.h"
+
+1704656468 d:\random\projetoap\estruturas.h
+	"Funcoes.h"
+
+1704661972 source:d:\random\projetoap_25172_25178_26450\main.c
+	<stdio.h>
+	"Funcoes.h"
+	"Estruturas.h"
+
+1704669168 d:\random\projetoap_25172_25178_26450\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estruturas.h"
+
+1704656468 d:\random\projetoap_25172_25178_26450\estruturas.h
+	"Funcoes.h"
+
+1704661972 source:d:\random\en_projetoap_25172_25178_26450\main.c
+	<stdio.h>
+	"Funcoes.h"
+	"Estruturas.h"
+
+1704669168 d:\random\en_projetoap_25172_25178_26450\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estruturas.h"
+
+1707600557 d:\random\en_projetoap_25172_25178_26450\estruturas.h
+	"Funcoes.h"
+
+1707670650 source:d:\random\ap\en_projetoap_25172_25178_26450\main.c
+	<stdio.h>
+	"Funcoes.h"
+	"Estruturas.h"
+
+1707672789 d:\random\ap\en_projetoap_25172_25178_26450\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estruturas.h"
+
+1707672746 d:\random\ap\en_projetoap_25172_25178_26450\estruturas.h
+	"Funcoes.h"
+
+1707700406 source:d:\random\ap\en_projetoap_25172_25178_26450_save\main.c
+	<stdio.h>
+	"Funcoes.h"
+	"Estruturas.h"
+
+1707700422 d:\random\ap\en_projetoap_25172_25178_26450_save\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estruturas.h"
+
+1707689412 d:\random\ap\en_projetoap_25172_25178_26450_save\estruturas.h
+	"Funcoes.h"
+
+1707736920 source:d:\random\ap\en_projetoap_25172_25178_26450_save1\main.c
+	<stdio.h>
+	"Funcoes.h"
+	"Estruturas.h"
+
+1707737611 d:\random\ap\en_projetoap_25172_25178_26450_save1\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estruturas.h"
+
+1707689414 d:\random\ap\en_projetoap_25172_25178_26450_save1\estruturas.h
+	"Funcoes.h"
+
