@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1722355101 source:c:\users\pc1\music\c\ap_cadeira\ap_cadeira\estruturas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estruturas.h"
+
+1722869001 source:c:\users\pc1\music\c\ap_cadeira\ap_cadeira\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estruturas.h"
+	"funcoes.h"
+
+1722869211 c:\users\pc1\music\c\ap_cadeira\ap_cadeira\estruturas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1722355837 c:\users\pc1\music\c\ap_cadeira\ap_cadeira\estruturas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1722869211 source:c:\users\pc1\music\c\ap_cadeira\ap_cadeira\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"estruturas.h"
+	"funcoes.h"
+
+1722360974 c:\users\pc1\music\c\ap_cadeira\ap_cadeira\funcoes.h
+
