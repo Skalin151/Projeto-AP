@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1722355101 source:c:\users\pc1\music\c\ap_cadeira\ap_cadeira\estruturas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estruturas.h"
+
+1722869001 source:c:\users\pc1\music\c\ap_cadeira\ap_cadeira\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estruturas.h"
+	"funcoes.h"
+
+1722869211 c:\users\pc1\music\c\ap_cadeira\ap_cadeira\estruturas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1722355837 c:\users\pc1\music\c\ap_cadeira\ap_cadeira\estruturas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1722869211 source:c:\users\pc1\music\c\ap_cadeira\ap_cadeira\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"estruturas.h"
+	"funcoes.h"
+
+1722360974 c:\users\pc1\music\c\ap_cadeira\ap_cadeira\funcoes.h
+
+1739064912 source:c:\users\lucas\desktop\ee_2024\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"funcoes.h"
+
+1739064619 c:\users\lucas\desktop\ee_2024\funcoes.h
+	"estruturas.h"
+
+1739067418 c:\users\lucas\desktop\ee_2024\estruturas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1738953188 source:c:\users\lucas\desktop\ee_2024\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes.h"
+
